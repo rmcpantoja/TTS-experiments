@@ -1,0 +1,86 @@
+wavs/1.wav|Vas a jugar con. Crees que el número será alto o bajo. Esto significa que vuelves a empezar.
+wavs/2.wav|El rayo guayacano, que juega contra, el rayo guayacano. ¿Por dónde crees que vendrá la pelota?. ¿Dónde quieres chutar?.
+wavs/3.wav|El español, el español. La selección española, La selección española.
+wavs/4.wav|El Bayer Múnic, el Bayer Múnic. Mánchester iunáited, Mánchester iunáited.
+wavs/5.wav|La lluventus, la llubentus. El atlético de Madrid, El atlético de Madrid.
+wavs/6.wav|El barza, el Barcelona. El real Madrid, El real Madrid. Y marcó.
+wavs/7.wav|Vamos a ver qué hace el portero con este penalti. Yo presiento que va a ver un gol.
+wavs/8.wav|Y el delantero se prepara para chutar. ¡Golazo!.
+wavs/9.wav|Y lo tenemos solo delante del portero a ver si consigue marcar. Derecha, izquierda, qué bien la paró sí señor.
+wavs/10.wav|¡Paradón del portero!. ¡Parada!. Y así tenemos el partido de momento. Marcadores: y los marcadores son,
+wavs/11.wav|Esto se merece tarjeta roja señores. ME parece a mí que le ha roto la rodilla. Esto es una falta más claro que el agua.
+wavs/12.wav|Habrá que sancionarlo durante los próximos diez partidos por lo menos. Menudo el golpe que le ha redado con la bota. El ganador del partido es,
+wavs/13.wav|¿Dónde quieres defender? Centro, cero, cero.
+wavs/14.wav|Uno, uno. Dos, dos. Tres, tres. Cuatro, cuatro. Cinco, cinco.
+wavs/15.wav|Y eso es algo, de lo que realmente, tienes que sentirte orgulloso ¿Eh? Pero no solo por haber ganado, tu paquete número cincuenta.
+wavs/16.wav|Tampoco por haber ganado todos los minijuegos por haberlos comprado todos, por tener un montón de monedas ahí acumuladas, tampoco por eso.
+wavs/17.wav|Lo que realmente, quiero que te sientas orgulloso es, de tu adicción al bítstar ¿Eh?.
+wavs/18.wav|Seguro que vas a la calle, y le preguntas a tus amigos: ¿Has jugado al bítstar? Y te dirán: Qué es eso, no, no he jugado. Qué es.
+wavs/19.wav|Vete por ahí. Vete por ahí, vete vete porque no entiendes, no entiendes de lo que es bueno no entiendes nada. Y, por eso, estoy tan agradecido contigo ¿No?.
+wavs/20.wav|Porque, de alguna forma, me enorgullece que haya gente que juega mis juegos. Y, que juegue tanto tiempo como para petarse cincuenta paquetes de sonidos ¿No?.
+wavs/21.wav|Y espero que lo recomiendes a tus amigos, que no lo conozcan, y que sigas jugando, y sin más demora, aquí tienes tu logro.
+wavs/22.wav|Has perdido, muy mal. Vamos a tener que enviar a otro equipo, directito a segunda división mira.
+wavs/23.wav|Me das tanta pena, que te voy a dar un premio de consolación. De los que te dan en los concursos. Aquí lo tienes.
+wavs/24.wav|Diez sonidos, qué bien. Seguro que en el instituto eres un crack estudiando. Toma.
+wavs/25.wav|Pero mira que llegas a ser malo ¿EH?, pero es que, malo, malo, más malo no se puede ser ¿Eh?.
+wavs/26.wav|En el primer nivel, perder, y de una manera tan desastrosa que ni siquiera has conseguido ganar, al más fácil de todos.
+wavs/27.wav|Si es que, con una hostia te cojo y te reviento mira mira, pero mira ¿Eh?, escucha. Una moneda. Siete monedas. Nueve monedas. Diez monedas. Trece monedas.
+wavs/28.wav|Pulsa a, para alto, o be. También puedes pulsar escape para abandonar. Esto es doble o nada. O lo ganas todo, o lo pierdes todo. Mucha suerte.
+wavs/29.wav|Bít bol. Juego de fútbol. Coste, doce mil. Necesita mil monedas para traer a los jugadores al campo.
+wavs/30.wav|Jugar para ganar. Coste, veinticinco mil. Puedes ganar, hasta cien mil monedas, vendiendo tus propias monedas.
+wavs/31.wav|Para jugar, nuestro concursante de hoy, ha tenido que darnos,
+wavs/32.wav|Aquí estamos todos a punto de presenciar la final de la copa del rey. Los tan esperados equipos de hoy,
+wavs/33.wav|Una cálida bienvenida a todo el mundo a este partido de hoy desde radio bítstar. Los equipos de hoy tenemos.
+wavs/34.wav|Todo el mundo en el estadio, preparados para que empiece el partido, el árbitro ya está sentado en su banquillo preparado. Y los equipos de hoy son.
+wavs/35.wav|Usa las flechas arriba y abajo para desplazarte por tus logros. Pulsa énter para escuchar uno, o, escape para volver al menú.
+wavs/36.wav|Hay nuevas actualizaciones. Para descargarlas, por favor, dirígete a la página web, tres uve dobles punto uriol Gómez punto com, o usa el icono que encontrarás dentro de la carpeta del juego del menú inicio.
+wavs/37.wav|Para poder romper los códigos, tendrás que pulsar las teclas correspondientes a las acciones del paquete actual de sonidos.
+wavs/38.wav|Digamos. Tabulador, espacio, tecla de borrar y énter, y posiblemente las flechas. No te olvides que habrá tantas acciones posibles como teclas tenga el pack, así que si quieres jugar un juego más fácil, juega un pack de solo cuatro teclas.
+wavs/39.wav|En cada nivel, se incrementará el número de acciones así que puede haber acciones repetidas. No te olvides de eso. El bit pon es muy fácil de jugar. Primero escucharás una pelota a tu izquierda.
+wavs/40.wav|Tendrás que devolver la pelota pulsando la tecla énter. Cuando hayas hecho esto, la pelota volverá hacia el centro, y a la izquierda, y otra vez al centro.
+wavs/41.wav|Pero, a velocidad más alta. Tendrás que seguir haciendo esto hasta que no puedas más. Mucha suerte. Pulsa énter ahora para jugar.
+wavs/42.wav|Atento al ritmo es un juego muy simple. Primero escucharás, cuatro golpes de metrónomo. Después, escucharás una música. Tendrás que pulsar énter cada dos tiempos. Es decir, en el contratiempo de la canción.
+wavs/43.wav|Cuando hayas hecho esto, y la música termine, se subirá el nivel, y tendrás menos tiempo para reaccionar, porque la música irá más rrápido. Mucha suerte.
+wavs/44.wav|Jugar para ganar, es un juego, que se explica por sí mismo. Hay veinticinco cajas, y cojes una. Cada caja tiene su sonido.
+wavs/45.wav| Cuando las abras, irás descubriendo los contenidos de cada caja, y al final te quedarás con la tuya. Alternativamente, puedes quedarte con lo que el banco te ofrezca a cada momento si no te quieres arriesgar.
+wavs/46.wav|El bit slots, o el tragaperras, es un juego muy sencillo. Escucharás una rueda, y tres sonidos de tu paquete de sonidos. Puedes encontrar las reglas en el manual. Pero, aquí tienes la información básica.
+wavs/47.wav|Si suenan tres sonidos iguales, ganas. Si suenan dos sonidos iguales, también ganas, pero no tanto. Si suenan dos sonidos iguales, y el sonido del paquete de sonidos para no hacer nada, también pierdes.
+wavs/48.wav|Bit bol, es un juego de fútbol muy sencillo. Puedes encontrar las normas en el manual. Pero, aquí tienes lo básico.
+wavs/49.wav|Cuando te toca defender o chutar, puedes usar las flechas izquierda o derecha para seleccionar la posición, y énter, para continuar con el juego.
+wavs/50.wav|El juego continúa hasta que un equipo alcanza los cinco puntos, en ese momento, se escuchará el himno del equipo ganador, y el juego se termina.
+wavs/51.wav|El bit vox, es un juego de lucha muy interesante. Hay un monstruo gigante que ha decidido, retarte a una lucha a muerte.
+wavs/52.wav|Puede atacarte, por tres direcciones diferentes, y dos ángulos. Izquierda, derecha, o centro, y. Alto, o bajo.
+wavs/53.wav|Las teclas son. Doble uve, ese, para izquierda, alto y bajo, te ge para centro, y u jota para derecha.
+wavs/54.wav|Tienes que pulsar la tecla correspondiente al sonido para bloquear su ataque, y seguidamente, atacarle a él, pulsando cualquieras de las teclas indicadas arriba.
+wavs/55.wav|El juego se divide en rondas y niveles. Para subir de nivel, tienes que ganar dos rondas al enemigo. Si te matan dos rondas seguidas, pierdes el juego.
+wavs/56.wav|El juego terminó. Has ganado, el número actual es, acciones para este código, códigos craqueados, para jugar a este juego sacrificarás, monedas, y, has ganado, minijuegos.
+wavs/57.wav|Bit pon. Precio, ocho mil. Bit slots. Tragaperras. Coste, diez mil monedas. Necesita cien, para jugar. No tienes monedas para comprar este juego. Ahora tienes,
+wavs/58.wav|Para comprar este juego necesitas más monedas. Lo siento. Necesitarás veinticinco mil monedas para comprar este juego, y no las tienes. Debes jugarte al menos cinco mil monedas.
+wavs/59.wav|Atento al ritmo. Coste, siete mil. Este juego cuesta siete mil monedas. Has perdido. Volver al menú. Dados de la muerte. Coste, quince mil. Comprar una caja cuesta como mínimo diez mil monedas.
+wavs/60.wav|Escoge un juego. Pulsa efe uno para obtener información. ¿Quieres comprar este minijuego? Este juego cuesta veinticinco mil monedas ¿Quieres comprarlo?. ¿Quieres comprar este minijuego por siete mil monedas?
+wavs/61.wav|Este juego te costará quince mil monedas. ¿Comprarlo? Este minijuego cuesta doce mil monedas. ¿Quieres comprarlo? Este juego cuesta diez mil monedas ¿Quieres comprarlo? Dale al código. Coste diez mil.
+wavs/62.wav|Bit box. Juego de boxeo. Coste, quince mil. Necesitas al menos mil monedas para llebar a tus jugadores al campo. Necesitas cien monedas para jugar a este juego.
+wavs/63.wav|Has conseguido, y te quedaste en el nivel, modo normal. Aprender acciones. ¿Quieres jugar usando tu seguro de nivel? Salir. Okey, perdón por preguntar. De acuerdo pues, te lo pregunto otro día. Donar ahora.
+wavs/64.wav|El bítstar te quiere, pero también quiere que hagas una pequeña contribución. Solo son diez euros, me ayudaría mucho al desarrollo de este y otros juegos por Oriol Gómez. Usa las flechas arriba y abajo para decidir qué hacer, y pulsa énter.
+wavs/65.wav|Quizás más tarde. No quiero donar, o ya he donado. Cambiar paquete de sonidos. Pulsa ese para continuar, o ene para volver. Comprobar cajas restantes. Comprar paquetes de sonidos. Bit revés.
+wavs/66.wav|No hay escapatoria. Juegos ponificiales. Ladrón de bancos. El quinto el mejor. Jugador afortunado. Luchador patético. Creador oficial. Al ritmo. Descodificado. Campeón empollón.
+wavs/67.wav|Poeta empollón. Empollón de instituto. Empollón de preescolar. Vete a aprender las acciones. Dedos entrenados. Equipo de primera. Equipo de segunda. Te has quedao empanao. Ganador por dos.
+wavs/68.wav|Gracias por donar. Perdedor por dos. Adicto al bítstar. Veinticinco hacen siete. Otra cervecita. Una cervecita. Jugador novato. Tragaperras catastrófico. Buen comprador. Campeón de boxeo.
+wavs/69.wav|Usa las flechas arriba y abajo para moverte por los paquetes de sonido disponibles y enter para seleccionar. ¡Luchad!. ¡Pelea!. ¡Que empiece!. Boxeador entrenado. Quiero ser boxeador. Ponte a trabajar.
+wavs/70.wav|Este. Juego, te puede. No hay, escapatoria. Si me permites la interrupción un momento, ee me gustaría agradecerte que estés creando e un paquete de sonidos,
+wavs/71.wav|Y espero que lo compartas con nosotros el resto de la comunidad de los jugadores de bítstar, y bueno aquí tienes, algo para alegrarte. El momento.
+wavs/72.wav|Bueno. Ocho sonidos está bastante bien. Seguro que en el cole cuando ivas a primaria te tocaba memorizar muchos poemas a que sí. Mira por ser un buen poeta, y un buen empollón, te voy a regalar algo.
+wavs/73.wav|Bueno, cinco sonidos, no está mal. Mira. Eee como me caes bien, te voy a hacer un regalito. ¡Hey, Muy bien! Has conseguido ganar el paquete sin usar ningún antifallo. Mira ¿Sabes qué? Voy a ser generoso.
+wavs/74.wav|Creo que tu equipo, se merece, algo. Muchas gracias en tu interés por donar por el juego. Para donar, simplemente ve a tres uve dobles punto Uriol Gómez punto com, esto es.
+wavs/75.wav|O. Erre. I. O. Ele, ge. O. Eme e zeta punto com, encuentra la página de juegos y allí, el enlace para donar. Ah, y antes de que se me olvide.
+wavs/76.wav|¡Ey! Felicidades por tu primera compra, o por lo menos desde que lo tengo en cuenta. Mira, ten esto. Bueno el nivel siete no está nada mal. Puedes estar orgulloso. Mira, para ti. ¡Heyyy! Has llegado al nivel cinco no está nada mal. Mira. Para ti.
+wavs/77.wav|¡Felicidades! Has instalado el bítstar. Este juego, va a requerir mucho trabajo por tu parte vas a tener que aprenderte las teclas.
+wavs/78.wav|Vas a tener que, conseguir un montón de monedas, para conseguir todos los paquetes de sonido todos los minijuegos, etcétera etcétera.
+wavs/79.wav|Además, si quieres crear tus paquetes de sonido vas a tener, que currártelo aprender a utilizar la e herramienta de creación de paquetes, así que, pensándolo bien, y, con mucho cariño, te voy a regalar,
+wavs/80.wav|Bienvenidos bienvenidos a los dados de la muerteeeee, buueno aquí tenemos a nuestro concursante, y hay dos dados,
+wavs/81.wav|Y tendrá que adivinar si el número será más alto, o más bajooo. Vamos a ver, qué pasa.
+wavs/82.wav|Oriol gómez presenta, ahora son mías. Veamos a ver qué pasaaa, ahora te lo puedes gastar, en packs, y antifallos.
+wavs/83.wav|Has perdiiido ojojojojo, qué pena. Terremoto. Uracán. Tsunami.
+wavs/84.wav|Bienvenidos bienvenidos a doble o nada pasen pasen. El concursante de hoy nos va a dar todo su dinero, para ver lo que ocurre con él, a ver si consigue ganar o lo pierde todo.
+wavs/85.wav|¡Siiiii! Veinticinco paquetes de sonidos, no está nada mal. Aquí tienes tu premio.
+wavs/86.wav|Felicidades por petarte, tu quinto paquete de sonidos del bítstar. Ahora es hora de una cervecita. Muchas felicidades por completar, tu primer paquete de sonidos.
